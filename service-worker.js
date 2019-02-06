@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Orest-Cokan/Orest-Cokan.github.io/precache-manifest.bc756ca1ca8eeeb193d68cfa6874e5e3.js"
+  "/Orest-Cokan.github.io/precache-manifest.07473cbc40cc11dbcabe39e9012804f9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Orest-Cokan/Orest-Cokan.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/Orest-Cokan.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
