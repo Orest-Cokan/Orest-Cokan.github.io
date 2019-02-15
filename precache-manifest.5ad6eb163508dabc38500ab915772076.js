@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2b646f71b36828df9922",
-    "url": "/Orest-Cokan.github.io/static/css/main.aae80fc2.chunk.css"
+    "revision": "262d4d62a26d08bb54da",
+    "url": "/Orest-Cokan.github.io/static/css/main.d8f8bac7.chunk.css"
   },
   {
-    "revision": "2b646f71b36828df9922",
-    "url": "/Orest-Cokan.github.io/static/js/main.2b646f71.chunk.js"
+    "revision": "262d4d62a26d08bb54da",
+    "url": "/Orest-Cokan.github.io/static/js/main.262d4d62.chunk.js"
   },
   {
     "revision": "947d507a2eb31f2f56b4",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Orest-Cokan.github.io/static/js/runtime~main.4598d652.js"
   },
   {
-    "revision": "7f8b5a32a0c144b0d6264935e514be6c",
+    "revision": "b47c2c6aa4efcc24144e9f32c4ebc481",
     "url": "/Orest-Cokan.github.io/index.html"
   }
 ];
