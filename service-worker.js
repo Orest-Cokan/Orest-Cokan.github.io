@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Orest-Cokan.github.io/precache-manifest.949cca02f1f6fad2fae4965c665e6fd9.js"
+  "/Orest-Cokan.github.io/precache-manifest.ac5d447b0f6ee78e7fa92d1f5f7e75c9.js"
 );
 
 workbox.clientsClaim();
