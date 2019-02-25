@@ -1,13 +1,13 @@
 {
-  "main.css": "/renigmatic-arcane.github.io/static/css/main.7246f537.chunk.css",
-  "main.js": "/renigmatic-arcane.github.io/static/js/main.1294b167.chunk.js",
-  "main.js.map": "/renigmatic-arcane.github.io/static/js/main.1294b167.chunk.js.map",
-  "static/js/1.2ff99bcc.chunk.js": "/renigmatic-arcane.github.io/static/js/1.2ff99bcc.chunk.js",
-  "static/js/1.2ff99bcc.chunk.js.map": "/renigmatic-arcane.github.io/static/js/1.2ff99bcc.chunk.js.map",
-  "runtime~main.js": "/renigmatic-arcane.github.io/static/js/runtime~main.d2e119cf.js",
-  "runtime~main.js.map": "/renigmatic-arcane.github.io/static/js/runtime~main.d2e119cf.js.map",
-  "static/css/main.7246f537.chunk.css.map": "/renigmatic-arcane.github.io/static/css/main.7246f537.chunk.css.map",
-  "index.html": "/renigmatic-arcane.github.io/index.html",
-  "precache-manifest.5fdb25587b6ad2da61881a1667daa288.js": "/renigmatic-arcane.github.io/precache-manifest.5fdb25587b6ad2da61881a1667daa288.js",
-  "service-worker.js": "/renigmatic-arcane.github.io/service-worker.js"
+  "main.css": "/enigmatic-arcane.github.io/static/css/main.7246f537.chunk.css",
+  "main.js": "/enigmatic-arcane.github.io/static/js/main.1294b167.chunk.js",
+  "main.js.map": "/enigmatic-arcane.github.io/static/js/main.1294b167.chunk.js.map",
+  "static/js/1.2ff99bcc.chunk.js": "/enigmatic-arcane.github.io/static/js/1.2ff99bcc.chunk.js",
+  "static/js/1.2ff99bcc.chunk.js.map": "/enigmatic-arcane.github.io/static/js/1.2ff99bcc.chunk.js.map",
+  "runtime~main.js": "/enigmatic-arcane.github.io/static/js/runtime~main.58aa82cd.js",
+  "runtime~main.js.map": "/enigmatic-arcane.github.io/static/js/runtime~main.58aa82cd.js.map",
+  "static/css/main.7246f537.chunk.css.map": "/enigmatic-arcane.github.io/static/css/main.7246f537.chunk.css.map",
+  "index.html": "/enigmatic-arcane.github.io/index.html",
+  "precache-manifest.4dd5e2178b60bf375d1c4ade7cacba43.js": "/enigmatic-arcane.github.io/precache-manifest.4dd5e2178b60bf375d1c4ade7cacba43.js",
+  "service-worker.js": "/enigmatic-arcane.github.io/service-worker.js"
 }

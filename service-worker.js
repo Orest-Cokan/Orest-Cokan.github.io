@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/renigmatic-arcane.github.io/precache-manifest.5fdb25587b6ad2da61881a1667daa288.js"
+  "/enigmatic-arcane.github.io/precache-manifest.4dd5e2178b60bf375d1c4ade7cacba43.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/renigmatic-arcane.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/enigmatic-arcane.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
