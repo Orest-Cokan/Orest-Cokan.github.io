@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Orest-Cokan.github.io/precache-manifest.ac5d447b0f6ee78e7fa92d1f5f7e75c9.js"
+  "/relearn-destiny.github.io/precache-manifest.10c9dcf6f1cbf08f93d75ac58487db89.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Orest-Cokan.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/relearn-destiny.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
